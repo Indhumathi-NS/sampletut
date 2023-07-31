@@ -11,6 +11,7 @@ public class tuto1class {
 		
 		System.out.println("code for second branch");
 System.out.println("second updated");
+		System.out.println("pull example");
 	}
 
 }
