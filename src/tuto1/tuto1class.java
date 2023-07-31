@@ -8,7 +8,8 @@ public class tuto1class {
 		int b=20;
 		int c=a+b;
 		System.out.println(c);
-		System.out.println("cloneed and updated");
+		
+		System.out.println("code for second branch");
 
 	}
 
